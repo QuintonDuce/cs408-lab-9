@@ -2,16 +2,9 @@
 
 ## Overview
 
-TODO: Write a project description
+This Project is a game that creates bouncing balls moving at different speeds around the screen. There is a user controllable "Evil Ball" that eats all balls it collides with. This ball is controlled with WASD and can move anywhere on the screen. The goal is to remove all balls from the screen with the evin ball.
 
 ## Sources and Credits
-
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
 
 A simple bulleted list below is sufficient. For example:
 
